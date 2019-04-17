@@ -1,0 +1,23 @@
+ULTIBOARD DRILL REPORT
+
+Design: multisim_arduino_stand_alone_schema
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                            LAMINATION
+multisim_arduino_stand_alone_schema - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0350    PTH     66
+   2   0.0392    PTH      6
+   3   0.0465    PTH      7
+   4   0.0354    PTH      4
